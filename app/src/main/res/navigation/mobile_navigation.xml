@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_activity">
+
+    <fragment
+        android:id="@+id/navigation_activity"
+        android:name="com.test.aruh.ActivityFragment"
+        android:label="@string/title_activity"
+        tools:layout="@layout/fragment_chats" />
+
+    <fragment
+        android:id="@+id/navigation_chats"
+        android:name="com.test.aruh.ChatsFragment"
+        android:label="@string/title_chats"
+        tools:layout="@layout/fragment_activity" />
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.test.aruh.SearchFragment"
+        android:label="@string/title_search"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/navigation_groups"
+        android:name="com.test.aruh.GroupsFragment"
+        android:label="@string/title_groups"
+        tools:layout="@layout/fragment_groups" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.test.aruh.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aruh</string>
+    <string name="title_activity">Activity</string>
+    <string name="title_chats">Chats</string>
+    <string name="title_search">Search</string>
+    <string name="title_groups">Groups</string>
+    <string name="title_profile">Profile</string>
+    <string name="activity_fragment">Activity Fragment</string>
+    <string name="chats_activity">Chats Activity</string>
+    <string name="search_activity">Search Activity</string>
+
+    <string name="groups_fragment">Groups Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+</resources>
