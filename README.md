@@ -4,6 +4,20 @@ Aruh is a java-based android application that contains all the necessary academi
 
 Fork the repository, make your changes and create a pull request in order to contribute to my work. Don't forget to keep fetching for the latest changes. Have a look into the [issues](https://github.com/venusaim23/Aruh/issues) section for existing bugs and required features. Feel free to create new issues if you find a bug or want to implement a new feature. Thanks in advance ;)
 
+---
+
+### Requirements to contribute:
+- Basics of Java
+- Basics of Android Studio
+
+### Tools and Technologies Used:
+- Adobe XD for wireframing and assets
+- Android Studio
+- Git
+- Firebase for backend
+
+---
+
 ### Features:
 **Dynamic timetable** keeps you updated with upcoming classes. Any changes in the timetable, swapping or cancellation of classes, or shifting are all updated in the app itself by the class representatives who are responsible to look over the changes.
 
@@ -30,3 +44,5 @@ The entire application is role-based. Roles can be assigned to class members. Cl
 **Profile** section comes with all profile and app preferences. Users can change from a given set of preferences to match their tastes.
 
 ![image](https://user-images.githubusercontent.com/75775529/143553522-5c563552-de6f-4b08-96a9-120c205e2d5b.png)
+
+The entire Adobe XD wireframe is available here.
