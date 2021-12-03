@@ -4,6 +4,8 @@ Aruh is a java-based android application that contains all the necessary academi
 
 Fork the repository, make your changes and create a pull request in order to contribute to my work. Don't forget to keep fetching for the latest changes. Have a look into the [issues](https://github.com/venusaim23/Aruh/issues) section for existing bugs and required features. Feel free to create new issues if you find a bug or want to implement a new feature. Thanks in advance ;)
 
+The entire Adobe XD wireframe is available [here](./Wireframe-Demos/). Not the entire wireframe is ready, so feel free to suggest any changes or new features.
+
 ---
 
 ### Requirements to contribute:
@@ -45,4 +47,3 @@ The entire application is role-based. Roles can be assigned to class members. Cl
 
 ![image](https://user-images.githubusercontent.com/75775529/143553522-5c563552-de6f-4b08-96a9-120c205e2d5b.png)
 
-The entire Adobe XD wireframe is available here.
